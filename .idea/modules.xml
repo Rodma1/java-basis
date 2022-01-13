@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jwt/Jwt.iml" filepath="$PROJECT_DIR$/Jwt/Jwt.iml" />
       <module fileurl="file://$PROJECT_DIR$/basis/basis.iml" filepath="$PROJECT_DIR$/basis/basis.iml" />
       <module fileurl="file://$PROJECT_DIR$/java基础.iml" filepath="$PROJECT_DIR$/java基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/设计模式.iml" filepath="$PROJECT_DIR$/设计模式/设计模式.iml" />
     </modules>
   </component>
 </project>

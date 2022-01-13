@@ -3,6 +3,7 @@ package com.chen.值传递;
 /**
  * 对象引用作为参数会改变
  * 因为拷贝的和原来的是指向同一个对象
+ * 一个方法不能让对象参数引用一个新的对象。
  */
 public class 对象引用作为参数传递 {
     public static void change(int[] array){
